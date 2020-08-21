@@ -1,1 +1,1 @@
-# Projeto com Multiplas Aplicações usnado Docker Compose para orquestrar os seriços.
+# Projeto com multiplas Aplicações usando Docker Compose para orquestrar os seriços.
