@@ -1,1 +1,1 @@
-# multiplas_aplica-oes_docker-compose
+# Projeto com Multiplas Aplicações usnado Docker Compose para orquestrar os seriços.
